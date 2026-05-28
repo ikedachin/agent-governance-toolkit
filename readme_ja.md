@@ -37,7 +37,7 @@ pip install agent-governance-toolkit[full]
 2. ツール関数を `govern(...)` でラップする
 3. 呼び出しごとにポリシー判定とログ記録が走る
 
-詳細は公式クイックスタート: [`/docs/quickstart.md`](/docs/quickstart.md)
+詳細は公式クイックスタート: [`docs/quickstart.md`](docs/quickstart.md)
 
 ## まず作るべき policy.yaml の考え方
 
@@ -64,7 +64,7 @@ CIで使う場合は `agt verify --strict` のように厳格モードが使え�
 - **既存スタックに合わせる**: TypeScript / .NET / Rust / Go SDK
 - **Copilot CLI / Claude Code**: 専用パッケージあり
 
-対応パッケージ一覧は [`/README.md`](/README.md) の Install セクションと [`/docs/PACKAGE-FEATURE-MATRIX.md`](/docs/PACKAGE-FEATURE-MATRIX.md) を参照してください。
+対応パッケージ一覧は [`README.md`](README.md) の Install セクションと [`docs/PACKAGE-FEATURE-MATRIX.md`](docs/PACKAGE-FEATURE-MATRIX.md) を参照してください。
 
 ## 導入のおすすめ順
 
@@ -80,11 +80,11 @@ CIで使う場合は `agt verify --strict` のように厳格モードが使え�
 
 ## 次に読むと理解しやすい順番
 
-1. [`/docs/quickstart.md`](/docs/quickstart.md)
-2. [`/examples/quickstart/`](/examples/quickstart/)
-3. [`/docs/ARCHITECTURE.md`](/docs/ARCHITECTURE.md)
-4. [`/docs/tutorials/`](/docs/tutorials/)
-5. [`/docs/compliance/owasp-agentic-top10-architecture.md`](/docs/compliance/owasp-agentic-top10-architecture.md)
+1. [`docs/quickstart.md`](docs/quickstart.md)
+2. [`examples/quickstart/`](examples/quickstart/)
+3. [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md)
+4. [`docs/tutorials/`](docs/tutorials/)
+5. [`docs/compliance/owasp-agentic-top10-architecture.md`](docs/compliance/owasp-agentic-top10-architecture.md)
 
 ## 補足
 
