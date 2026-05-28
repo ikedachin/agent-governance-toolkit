@@ -1,4 +1,4 @@
-# Agent Governance Toolkit かんたん解説（日本語）
+# Agent Governance Toolkit かんたん解説 （日本語）
 
 このファイルは、`README.md` の内容を「まず全体像を掴みたい人向け」に整理した入門ガイドです。
 
